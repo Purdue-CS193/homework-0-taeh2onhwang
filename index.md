@@ -5,3 +5,9 @@ My favorite things about CS193
 - You can prepare for future CS related projects or research
 - It's an easy way to prepare for other CS classes like CS182, CS240, etc
 - The lecturers are cool!
+
+```
+Code block Test
+*italic*
+**bold**
+```
